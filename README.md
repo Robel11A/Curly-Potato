@@ -18,7 +18,7 @@ This Employee Payroll Tracker is a web application designed to help payroll mana
 3. View Data: After adding employees, see the employee data displayed on the page. You can stop adding at any time and review the data that has been input.
 
 ## Screenshots
-View screenshots of the application [here](/Develop/image/).
+View screenshots of the application [here](image/).
 
 ## Technology
 This application is built entirely with HTML, CSS, and JavaScript. It does not store data permanently; all data is lost when the browser is closed or refreshed.
